@@ -1,13 +1,13 @@
 About Me
 ---
 
-![Profile Pic](julien_rault_LD.png)  {.center}
+![Profile Pic](julien_rault_LD.png)
 
 Since 2014, I've been working as a beamline Scientist at the [CASSIOPEE](https://www.synchrotron-soleil.fr/en/beamlines/cassiopee) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)).
 
 Here is my Google Scholar's profile :  
 
-[![Google Scholar Profile](logo_scholar.gif)  {.center}](https://scholar.google.fr/citations?user=PiSdgocAAAAJ)  
+[![Google Scholar Profile](logo_scholar.gif)](https://scholar.google.fr/citations?user=PiSdgocAAAAJ)  
 
 
 **Research topics:**
