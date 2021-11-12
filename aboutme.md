@@ -30,10 +30,7 @@ Here is my Google Scholar's profile :
     * Soft x-ray photoemission electron microscopy in real and reciprocal spaces (PEEM, k-PEEM)
     * Standing wave (angle-resolved) photoemission spectroscopy (SW-XPS, SWARPES)
 
-
-
 CV
-==============
 ---
 
 **2014 - now:** Beamline scientist at the [CASSIOPEE](https://www.synchrotron-soleil.fr/en/beamlines/cassiopee) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)).  
@@ -41,10 +38,6 @@ CV
 **2010 - 2013:** PhD graduate of the [Université Pierre et Marie Curie](http://www.upmc.fr/) in Physics. The thesis has been conducted at the [Photoemission, Photodiffraction and Spectromicroscopy group](http://iramis.cea.fr/spec/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=2075) in CEA-Saclay.  
 **2006 - 2009:** Graduate of Ecole Centrale Paris (P2009) in Applied Physics.  
 
-
 Contact Me
-=============
 ---
-pro at juer.fr  
-+33 1 69 35 94 29
-
+pro at juer.fr
