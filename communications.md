@@ -1,9 +1,4 @@
----
-title: Communications
----
-
 Communications
-==============
 ---
 
 __L’apport du rayonnement Synchrotron pour la spectroscopie d’électrons__  
