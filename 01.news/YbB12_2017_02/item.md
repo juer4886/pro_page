@@ -12,17 +12,14 @@ A group of researchers from Osaka University, the Institute for Molecular Scienc
 
 Figure 1 shows the low-energy electron diffraction (LEED) pattern observed after the cleaning process. As shown by the sharp spots and low backgrounds, a well-ordered clean YbB<sub>12</sub>(001) surface was obtained. In addition to the integer order spots corresponding to a (001) in-plane lattice constant, fractional order spots showing additional surface superlattice were also found. The pattern shows fourfold rotation symmetry, which is expected from the bulk crystal structure (see the left side of Figure 1)
 
-![Figure 1](01_YbB12_fig1.jpg)  {.center}
+![Figure 1](01_YbB12_fig1.jpg)
 
 __Figure 1: (left) Atomic structure of YbB<sub>12</sub> crystal. Green (gray) circles are Yb (B) atoms. (right) Low-energy electron diffraction pattern from the YbB<sub>12</sub> clean surface. Sharp and bright spots indicates clean and well-ordered surface.__
 
 Figure 2 is the ARPES results showing surface electronic structure. As indicated by the yellow guide in Fig. 2 (a), the metallic state was clearly observed to connect continuously to bulk bandgap. The bulk electronic structure of YbB<sub>12</sub> cannot host such metallic states dispersing across the Kondo gap and hence this metallic state is derived from the surface electronic structure. Moreover, circular-dichroism of ARPES performed at CASSIOPEE beamline indicated the helical orbital polarization of the metallic surface state, which is closely related to the spin polarization. These results strongly suggest the topological origin of the surface states of YbB<sub>12</sub> driven by the Kondo effect.
 
 
-
-
-
-![Figure 2](02_YbB12_fig2.jpg)  {.center}
+![Figure 2](02_YbB12_fig2.jpg)
 
 __Figure 2: (a) Energy vs momentum plot of YbB<sub>12</sub> surface electronic states. Dark area shows electron intensity. Yellow line is a guide to the eye of the surface state dispersion and the lower window is the momentum distribution curve at 0-meV binding energy. (b) Orbital angular momentum polarization structure obtained by circular dichroism of ARPES. Red/blue area represents the polarization along the opposite direction to each other. Dashed line represents the surface-state dispersion shown in (a)__
 
