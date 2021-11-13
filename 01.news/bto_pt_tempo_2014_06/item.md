@@ -4,7 +4,7 @@
 
 In a ferroelectric device the local electric polarization is used to store information, either directly (FeRAMS) or by controlling another binary material state (resistive memories) [1]. The defining property of a ferroelectric (FE) material is a spontaneous macroscopic polarization which can be reversed under an applied electric field. Switching the polarization of such films requires a metallic contact, raising fundamental issues on the behavior of the interface between the FE layer and the electrode. The polarization leads to fixed charge of opposite sign at the two metal-FE interfaces. Free charge carriers in the metal electrodes act to screen the polarization charge, however, the screening is usually imperfect and the residual depolarizing field inside the FE alters the electrostatic potential and can even suppress FE polarization below the so-called critical thickness [2].
 
-*In-operando PhotoEmission Spectroscopy*
+## In-operando PhotoEmission Spectroscopy ##
 
 The key to better understand these systems is to probe their chemical and electronic properties under realistic operating conditions, i.e. application of d.c. or a.c. bias in the case of a ferroelectric. We developed a new experimental setup to allow such in-operando photoemission spectroscopy both in static and dynamic operations at TEMPO beamline. The starting point is a Pt/BaTiO<sub>3</sub>/SrTiO<sub>3</sub>:Nb heterostructure (Pt/BTO/NSTO) grown by Molecular Beam Epitaxy. Electrodes 300 × 300 μm² in area and 3 nm thick were patterned by ion beam etching. Thicker palladium pads overlapping part of the Pt electrodes were deposited to enable wire-bonding of the top electrodes for biasing. A highly insulating layer of Al2O3 was deposited onto bare BTO to suppress interference of the Pd pads with the capacitance (Figure 1a). At the TEMPO beamline, the 100 × 100 µm² beam could be directed onto a single top electrode located by a map of the whole sample using the Pt absorption edge (Figure 1b).
 
@@ -13,7 +13,7 @@ The key to better understand these systems is to probe their chemical and electr
 
 __Figure 1: (a) Schematic of the capacitor; (b) Pt 4f intensity map for the Pt/BTO/NSTO sample showing 20 identical Pt/BTO/NSTO capacitors (300x300 µm²) on the 5x5 mm² surface, allowing location of the wired capacitor.__
 
-*Electronic response to polarization switching at Pt/BaTiO3 interface*
+## Electronic response to polarization switching at Pt/BaTiO3 interface ##
 
 Using this innovative setup, we directly measured the energy band alignment of the Pt/BTO interface as a function of the ferroelectric polarization. In the P+ state (FE polarization towards Pt), the structure can be modeled as back-to-back diodes showing Schottky-limited conduction. The experimental conduction-band offset is 0.40 eV at the Pt/BTO interface and 0.45 eV at the BTO/NSTO interface. In the P- state (FE polarization towards NSTO), the top interface band alignment remains Schottky-like (+0.90 eV) while at the bottom interface (BTO/NSTO) the conduction band offset reduces to zero leading to ohmic conduction, consistent with the current – voltage characteristic of the whole structure. The observed barrier heights depend on both the interface chemistry and the FE polarization [3].
 
