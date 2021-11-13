@@ -6,7 +6,7 @@ A ferroelectric material has got at least two stable states of remnant electric 
 
 Research is now focusing on other methods to exploit the interesting properties of ferroelectrics in electronic devices made of a stack of ultra-thin layers, i.e. with a thickness beneath a few nanometers. Following the idea developed by the Nobel Prize Laureate Herbert Kroemer –whereby « interface is the device » [1] -, the principle is to exploit the local polarization effect of a thin ferroelectric layer at the interface with another layer exhibiting interesting charge transport or electronic spin properties. For example, it has been demonstrated that ferroelectric polarization could alter the magnetic properties of an adjacent thin layer, paving the way for spin electronics without any magnetic field [2]. On the basis of the architecture of traditional field effects transistors, our collaborators from the Unité Mixte de Physique CNRS/Thalès, showed that the orientation of the ferroelectric polarization can drastically modify the conduction properties of the adjacent oxide [3], which is the first step towards nanometric logical doors based on ferroelectrics.
 
-**Near-total Reflection hard x-ray PhotoEmission Spectroscopy**
+## Near-total Reflection hard x-ray PhotoEmission Spectroscopy ##
 
 These systems are rather well characterized at the macroscopic scale. Yet, to go further in their understanding and to be able to predict and produce more efficient systems, it is necessary to reach a precise characterization of their chemical and electronic properties, especially at the interface between the two materials.
 
