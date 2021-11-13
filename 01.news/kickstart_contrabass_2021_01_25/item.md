@@ -1,15 +1,4 @@
----
-title: Kickstart of the CONTRABASS project
-date: 25-01-2021
-author: J. E. R.
-header_image: ./00_header_pic_contrabass_kickstart.png
-subheading: Some information on the beginning of the Contrabass Project
-show_sidebar: true
-
-taxonomy:
-    category: blog
-    tag: [CONTRABASS, Kickstart, Ferroelectrics, Rashba]
----
+![header](00_header_pic_contrabass_kickstart.png)
 
 **January 2021 is the official start of the ANR project Contrabass. At the cross-road between spintronics, ferroelectricity and quantum materials physics, CONTRABASS will pioneer a new realm in spintronics, where spin currents can be generated, manipulated and converted by electric fields in a non-volatile way, without resorting to ferromagnets and their energy-costly magnetization switching. It's a collaboration between 5 laboratories: Spintec (CEA), UMPhy (CNRS/THALES), IJL (Uni. Lorraine), Crismat (ENSI CAEN) and Synchrotron SOLEIL.**
 
