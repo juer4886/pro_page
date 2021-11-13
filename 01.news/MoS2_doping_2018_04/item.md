@@ -1,15 +1,4 @@
----
-title: A reliable method to tune the 2D transition metal dichalcogenides (TMDs) doping without quality degradation
-date: 17-04-2018
-author: J. E. R.
-header_image: ./00_oxide_interface.png
-subheading: A reliable method to tune the 2D transition metal dichalcogenides (TMDs) doping without quality degradation.
-show_sidebar: true
-
-taxonomy:
-    category: blog
-    tag: [Highlights, TMDC, ARPES, 2D materials]
----
+https://github.com/juer4886/pro_page/blob/main/01.news/MoS2_doping_2018_04/00_MoS2_ARPES.png
 
 **Researchers from C2N and University of Pennsylvania in collaboration with CASSIOPÉE and TEMPO beamlines found a reliable method to tune the electronic properties of 2D TMDs materials without quality degradation. In particular, they demonstrated that  the electronic properties of single layer MoS<sub>2</sub> con be tuned from electron (n) to hole (p) doping via controlled exposure to atomic hydrogen at room temperature.**
 
