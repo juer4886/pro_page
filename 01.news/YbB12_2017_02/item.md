@@ -1,15 +1,4 @@
----
-title: YbB<sub>12</sub>, a new topological Kondo insulator
-date: 01-02-2017
-author: J. E. R.
-header_image: ./00_YB12_header.png
-subheading: YbB<sub>12</sub>, a new topological Kondo insulator.
-show_sidebar: true
-
-taxonomy:
-    category: blog
-    tag: [Highlights, Topological Insulators, ARPES, 2D materials]
----
+![header](00_YB12_header.png)
 
 **Angle-resolved photoemission measurements on YbB<sub>12</sub> carried out on CASSIOPEE beamline evidenced the existence of a metallic surface state. The obtained results strongly suggest the topological origin of this surface state driven by the Kondo effect and suggest that YbB<sub>12</sub> would be a topological Kondo insulator.**  
 
@@ -40,14 +29,14 @@ __Figure 2: (a) Energy vs momentum plot of YbB<sub>12</sub> surface electronic s
 **Note: Kondo effect and Kondo insulator**  
 In some rare-earth based intermetallic systems, the coexistence of unfilled 4f states and of conduction electrons can lead to the apparition of the Kondo effect. Indeed, the 4f electrons are very localized on the rare-earth ion sites and if these states are partially filled, they form a very localized magnetic moment. On the other hand, the conduction electrons are completely delocalized and they can be scattered by the 4f magnetic moments. At high temperature, these interactions do not have consequences but, when the temperature is decreasing, these interactions become much more important as compared to the other energy scales. One can define the Kondo temperature which is the temperature below which a strong coupling appears between magnetic moments and conduction electrons forming non-magnetic quasi-particles (antiferromagnetic coupling) with a very large effective mass denoting the trapping of the conduction electrons. In solid state theory, the trapping of the conduction electrons below the Kondo temperature, corresponds to the opening of a gap at the Fermi energy in the band structure and to the appearance of an insulating phase.
 
-###Link to Publication
+Link to Publication
 ---
 
 __Kenta Hagiwara, Yoshiyuki Ohtsubo, Masaharu Matsunami, Shin-ichiro Ideta, Kiyohisa Tanaka, Hidetoshi Miyazaki, Julien E. Rault, Patrick Le Fèvre, François Bertran, Amina Taleb-Ibrahimi, Ryu Yukawa, Masaki Kobayashi, Koji Horiba, Hiroshi Kumigashira, Kazuki Sumida, Taichi Okuda, Fumitoshi Iga and Shin-ichi Kimura__  
 *Surface Kondo effect and non-trivial metallic state of the Kondo insulator YbB<sub>12</sub>*  
 [*Nature Communications* **7**, 12690 (2016)](http://www.nature.com/ncomms/2016/160831/ncomms12690/full/ncomms12690.html) - [Pre-Print](https://arxiv.org/abs/1602.08173)
 
-###Link to the Highlight
+Link to the Highlight
 ---
 
 This highlight was published on Synchrotron SOLEIL [website](https://www.synchrotron-soleil.fr/en/news/ybb12-new-topological-kondo-insulator).
