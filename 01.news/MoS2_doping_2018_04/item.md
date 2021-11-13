@@ -10,12 +10,12 @@ Study of the electronic properties of the hydrogen-doped MoS<sub>2</sub> on TEMP
 
 HR-XPS studies on TEMPO beamline reveal the n type doping of pristine single layer MoS<sub>2</sub> which is also confirmed by the measurement of the valence band maximum (VBM). In Figure 1(a) the evolution of the characteristic core level peaks of MoS<sub>2</sub> (Mo 3d and S 2p) are shown, from the pristine MoS<sub>2</sub> through three different hydrogen doses. After the hydrogen doses the core level peaks of Mo 3d and S 2p show a rigid shift to lower binding energies (BE) (1st dose = -0. 1 eV, 2nd = -0.3 eV and 3rd = -0.5 eV) and the peak related to the sulfur vacancies (Sv) completely disappear indicating a complete saturation of the Sv. The saturation of these vacancies gradually reduced the n-type doping of the MoS<sub>2</sub> decreasing the distance of the VBM to the Fermi level (FL) as shown in Figure 1 (b) from 1.25 eV for the pristine MoS<sub>2</sub> to 0.95 eV (almost mid-gap, considering a quasi-particle bandgap of 2 eV) for the second hydrogen dose. This is the cause of the rigid energy shift of all core-levels. When the hydrogen dose is further increased the core level peaks still shift toward lower binding energy (-0.5 eV), which correspond to a distance of the VBM to the FL of about 0.75 eV. This means that a p-type doping is now induced in the MoS<sub>2</sub> flakes. The formations of Mo-H bonds and the saturation of the Sv replace the donor gap state present in the pristine MoS<sub>2</sub> to new acceptor gap state related to the Mo-H bond formation as confirmed by DFT calculations.
 
-###Link to Publication
+Link to Publication
 ---
 
 Pierucci, D., Henck, H., Ben Aziza, Z., Naylor, C.H., Balan, A., Rault, J.E., Silly, M.G., Dappe, Y.J., Bertran, F., Le Fevre, P., Sirotti, F., Johnson, A.T.C., Ouerghi, A. *Tunable Doping in Hydrogenated Single Layered Molybdenum Disulfide* [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.6b07661), **11**, 1755–1761 (2017)
 
-###Link to the Highlight
+Link to the Highlight
 ---
 
 This highlight was published on Synchrotron SOLEIL [website](https://www.synchrotron-soleil.fr/en/news/reliable-method-tune-2d-transition-metal-dichalcogenides-tmds-doping-without-quality).
