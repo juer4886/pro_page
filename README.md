@@ -6,4 +6,4 @@ The publications are [here](https://github.com/juer4886/pro_page/blob/main/publi
 
 The oral communications are [here](https://github.com/juer4886/pro_page/blob/main/communications.md).
 
-Some words about me [here]().
+Some words about me [here](https://github.com/juer4886/pro_page/blob/main/aboutme.md).
