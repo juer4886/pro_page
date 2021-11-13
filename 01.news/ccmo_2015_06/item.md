@@ -1,15 +1,4 @@
----
-title: Characterization of the electronic properties of a functionalized oxides interface
-date: 01-06-2015
-author: J. E. R.
-header_image: ./00_header_ccmo.png
-subheading: Characterization of the electronic properties of a functionalized oxides interface.
-show_sidebar: true
-
-taxonomy:
-    category: blog
-    tag: [Highlights, Oxides, HAXPES, Interfaces]
----
+![header](00_header_ccmo.png)
 
 **Ferroelectric memories - in which information is coded within the direction of the electric polarization – are energy saving, durable and very fast electronic devices already commercially available. However, reading the information necessitates an auxiliary electronic circuit which limits the miniaturization of such systems at the nanometric scale. Researchers are thus looking towards systems where ferroelectric polarization allows manipulating the physical binary state of an oxide, easier to decode. But how the interface between the ferroelectric and the oxide behaves remain poorly known, which limits our understanding of the real abilities of these devices. A study led by scientists from the GALAXIES beamline at SOLEIL, the ALS synchrotron in Berkeley, the laboratoire Physique du Solide d’Orsay and the Unité Mixte de Physique CNRS/THALES de Palaiseau, has recently been published in Nano Letters, and presents a novel way to characterize these interfaces.**
 
@@ -17,7 +6,7 @@ A ferroelectric material has got at least two stable states of remnant electric 
 
 Research is now focusing on other methods to exploit the interesting properties of ferroelectrics in electronic devices made of a stack of ultra-thin layers, i.e. with a thickness beneath a few nanometers. Following the idea developed by the Nobel Prize Laureate Herbert Kroemer –whereby « interface is the device » [1] -, the principle is to exploit the local polarization effect of a thin ferroelectric layer at the interface with another layer exhibiting interesting charge transport or electronic spin properties. For example, it has been demonstrated that ferroelectric polarization could alter the magnetic properties of an adjacent thin layer, paving the way for spin electronics without any magnetic field [2]. On the basis of the architecture of traditional field effects transistors, our collaborators from the Unité Mixte de Physique CNRS/Thalès, showed that the orientation of the ferroelectric polarization can drastically modify the conduction properties of the adjacent oxide [3], which is the first step towards nanometric logical doors based on ferroelectrics.
 
-####Near-total Reflection hard x-ray PhotoEmission Spectroscopy 
+**Near-total Reflection hard x-ray PhotoEmission Spectroscopy**
 
 These systems are rather well characterized at the macroscopic scale. Yet, to go further in their understanding and to be able to predict and produce more efficient systems, it is necessary to reach a precise characterization of their chemical and electronic properties, especially at the interface between the two materials.
 
@@ -38,14 +27,14 @@ __References:__
 [5] Yamada, H. et al., *Scientific Report* **3**, 2834 (2013).  
 
 
-###Link to Publication
+Link to Publication
 ---
 
 __M. Marinova, J. E. Rault, A. Gloter, S. Nemsak, G. K. Palsson, J.-P. Rueff, C. S. Fadley, C. Carrétéro, H. Yamada, K. March, V. Garcia, S. Fusil, A. Barthélémy, O. Stéphan, C. Colliex and Manuel Bibes__  
 *Depth Profiling Charge Accumulation from a Ferroelectric into a Doped Mott Insulator*  
 [*Nano Letters* **15**, 2533–2541 (2015)](http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b00104) - [Pre-Print](https://arxiv.org/abs/1708.09160)
 
-###Link to Highlights
+Link to Highlights
 ---
 
 This highlight was published on Synchrotron SOLEIL [website](https://www.synchrotron-soleil.fr/en/news/characterization-electronic-properties-functionalized-oxides-interface).
