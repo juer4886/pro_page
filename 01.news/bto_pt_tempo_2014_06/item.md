@@ -1,15 +1,4 @@
----
-title: Static and dynamic electronic properties of a ferroelectric device
-date: 01-06-2014
-author: J. E. R.
-header_image: ./00_bto_pt_header.png
-subheading: Oxide electronics – Static and dynamic electronic properties of a ferroelectric device
-show_sidebar: true
-
-taxonomy:
-    category: blog
-    tag: [Highlights, Oxides, Interfaces, Ferroelectrics, XPS]
----
+![header](00_header.png)
 
 **Ferroelectric devices could be an alternative to magnetic based memories for future high-density data storage. Such devices have considerable advantages: they are non-volatile, have fast read-write times, low energy consumption and use realistic voltages. However, before considering future applications based on such materials, a better understanding of the electronic properties of nanometer-thick ferroelectric films is necessary. As this characterization is often impossible with standard techniques, we have studied ultra-thin films of ferroelectric materials on the TEMPO beamline, using classic and time-resolved photoelectron spectroscopy, an ideal tool for this kind of analysis.**
 
@@ -44,7 +33,7 @@ __References:__
 [4] J. E. Rault et al. *Physical Review B* 2013 **88**, 155107 (2013).  
 
 
-###Link to Publication
+Link to Publication
 ---
 
 __J. E. Rault, G. Agnus, T. Maroutian, V. Pillard, Ph. Lecoeur, G. Niu, B. Vilquin, M. G. Silly, A. Bendounan, F. Sirotti, N. Barrett__  
@@ -55,7 +44,7 @@ __J. E. Rault, G. Agnus, T. Maroutian, V. Pillard, Ph. Lecoeur, G. Niu, B. Vilqu
 *Interface Electronic Structure in a Metal/Ferroelectric Heterostructure under Applied Bias*  
 [*Physical Review B* **87**, 155146 (2013)](http://prb.aps.org/abstract/PRB/v87/i15/e155146) - [Pre-Print](https://arxiv.org/abs/1302.4603)
 
-###Link to the Highlight
+Link to the Highlight
 ---
 
 This highlight was published on Synchrotron SOLEIL [2013 highlights](http://www.highlights-synchrotron-soleil.fr/Highlights-2013-booklet/#28/z).
