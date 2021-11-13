@@ -7,7 +7,7 @@ __M. Horio, Q. Wang, V. Granata, K. P. Kramer, Y. Sassa, S. Jöhr, D. Sutter, A.
 *Electronic reconstruction forming a C<sub>2</sub>-symmetric Dirac semimetal in Ca<sub>3</sub>Ru<sub>2</sub>O<sub>7</sub>*  
 [*npj Quantum Materials **6**, 29 (2021)*](https://www.nature.com/articles/s41535-021-00328-3) - [Pre-Print](https://arxiv.org/abs/1911.12163)
 
-##2020##
+## 2020 ##
 
 __M.-A. Husanu, L. Vistoli, C. Verdi, A. Sander, V. Garcia, J. Rault, F. Bisti, L. L. Lev, T. Schmitt, F. Giustino, A. S. Mishchenko, M. Bibes & V. N. Strocov__  
 *Electron-polaron dichotomy of charge carriers in perovskite oxides*  
@@ -17,7 +17,7 @@ __J. Dai, E. Frantzeskakis, F. Fortuna, P. Lömker, R. Yukawa, M. Thees, S. Seng
 *Tunable two-dimensional electron system at the (110) surface of SnO<sub>2</sub>*  
 [*Physical Review B **101**, 085121 (2020)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.085121) - [Pre-Print](https://arxiv.org/abs/2002.06681)
 
-##2019##
+## 2019 ##
 
 __Alex Louat, Benjamin Lenz, Silke Biermann, Cyril Martins, François Bertran, Patrick Le Fèvre, Julien E. Rault, Fabrice Bert, and Véronique Brouet__  
 *ARPES study of orbital character, symmetry breaking, and pseudogaps in doped and pure Sr<sub>2</sub>IrO<sub>4</sub>*  
@@ -51,7 +51,7 @@ __Burcklen, C., Soufli, R., Rebellato, J., Walton, C., Meltchakov, E., Rault, J.
 *Lifetime Stability and Microstructure Properties of Cr/B<sub>4</sub>C X-ray Reflective Multilayer Coatings*  
 [*Journal of Nanoscience and Nanotechnology* **19**, 554-561 (2019)](http://www.ingentaconnect.com/content/asp/jnn/2019/00000019/00000001/art00073)
 
-##2018##
+## 2018 ##
 
 __Kuo, C.T., Lin, S.C., Conti, G., Pi, S.T., Moreschini, L., Bostwick, A., Meyer-Ilse, J., Gullikson, E., Kortright, J.B., Nemšák, S., Rault, J.E., Le Fèvre, P., Bertran, F., Santander-Syro, A. F., Vartanyants, I.A., Pickett, W.E., Saint-Martin, R., Taleb-Ibrahimi, A. & Fadley, C.S.__  
 *Atomic-layer-resolved composition and electronic structure of the cuprate Bi<sub>2</sub>Sr<sub>2</sub>CaCu<sub>2</sub>O<sub>8+δ</sub> from soft x-ray standing-wave photoemission*  
@@ -101,7 +101,7 @@ __M. S. Bahramy, O. J. Clark, B.-J. Yang, J. Feng, L. Bawden, J. M. Riley, I. Ma
 *Ubiquitous formation of bulk Dirac cones and topological surface states from a single orbital manifold in transition-metal dichalcogenides*  
 [*Nature Materials* **17**, 21–28 (2018)](https://www.nature.com/articles/nmat5031) - [Pre-Print](https://arxiv.org/abs/1702.08177)
 
-##2017##
+## 2017 ##
 
 __S. Xing, J. Mansart, V. Brouet, M. Sicot, Y. Fagot-Revurat, B. Kierren, P. Le Fèvre, F. Bertran, J. E. Rault, U. B. Paramanik, Z. Hossain, A. Chainani, and D. Malterre__  
 *Band structure and Fermi surfaces of the reentrant ferromagnetic superconductor Eu(Fe<sub>0.86</sub>Ir<sub>0.14</sub>)<sub>2</sub>As<sub>2</sub>*  
@@ -131,7 +131,7 @@ __Debora Pierucci, Hugo Henck, Zeineb Ben Aziza, Carl H. Naylor, Adrian Balan, J
 *Tunable Doping in Hydrogenated Single Layered Molybdenum Disulfide*  
 [*ACS Nano* **11**, 1755-1761 (2017)](http://pubs.acs.org/doi/abs/10.1021/acsnano.6b07661) - [Pre-Print](https://arxiv.org/abs/1806.02655)
 
-##2016##
+## 2016 ##
 
 __Kenta Hagiwara, Yoshiyuki Ohtsubo, Masaharu Matsunami, Shin-ichiro Ideta, Kiyohisa Tanaka, Hidetoshi Miyazaki, Julien E. Rault, Patrick Le Fèvre, François Bertran, Amina Taleb-Ibrahimi, Ryu Yukawa, Masaki Kobayashi, Koji Horiba, Hiroshi Kumigashira, Kazuki Sumida, Taichi Okuda, Fumitoshi Iga and Shin-ichi Kimura__  
 *Surface Kondo effect and non-trivial metallic state of the Kondo insulator YbB<sub>12</sub>*  
@@ -149,7 +149,7 @@ __M. N. Grisolia, J. Varignon, G. Sanchez-Santolino, A. Arora, S. Valencia, M. V
 *Hybridization-controlled charge transfer and induced magnetism at correlated oxide interfaces*  
 [*Nature Physics* **12**, 484–492 (2016)](http://www.nature.com/nphys/journal/v12/n5/abs/nphys3627.html) - [Pre-Print](https://arxiv.org/abs/1708.08823)
 
-##2015##
+## 2015 ##
 
 __S. Nemsak, G. Conti, G. K. Palsson,C. Conlon, S. Cho, J. E. Rault, J. Avila, M.-C. Asensio, C. A. Jackson, P. Moetakef, A. Janotti, L. Bjaalie, B. Himmetoglu, C. G. Van de Walle, L. Balents, C. M. Schneider, S. Stemmer and C. S. Fadley__  
 *Observation by resonant angle-resolved photoemission of a critical thickness for 2-dimensional electron gas formation in SrTiO<sub>3</sub> embedded in GdTiO<sub>3</sub>*  
@@ -167,7 +167,7 @@ __J.-P. Rueff, J. M. Ablett, D. Céolin, D. Prieur, T. Moreno, V. Balédent, B. 
 *The GALAXIES beamline at the SOLEIL synchrotron: inelastic X-ray scattering and photoelectron spectroscopy in the hard X-ray range*  
 [*Journal of Synchrotron Radiation* **22**, 175-179 (2015)](http://scripts.iucr.org/cgi-bin/paper?S160057751402102X) - [Pre-Print](https://arxiv.org/abs/1806.04058)
 
-##2014##
+## 2014 ##
 
 __J. E. Rault, T. O. Mentes, A. Locatelli, N. Barrett__  
 *Reversible switching of in-plane polarized ferroelectric domains in BaTiO<sub>3</sub>(001) with very low energy electrons*  
@@ -185,7 +185,7 @@ __C. Mathieu, E. H. Conrad, F. Wang, J. E. Rault, V. Feyer, C. M. Schneider, O. 
 *Exploring interlayer Dirac cone coupling in commensurately rotated few-layer graphene on SiC(000-1)*  
 [*Surface and Interface Analysis* **46**, 1268 (2014)](http://onlinelibrary.wiley.com/doi/10.1002/sia.5541/abstract) - [Pre-Print](https://arxiv.org/abs/1806.06559)
 
-##2013##
+## 2013 ##
 
 __J. E. Rault, J. Dionot, C. Mathieu, V. Feyer, C. M. Schneider, G. Geneste, N. Barrett__  
 *Polarization sensitive surface band structure of doped BaTiO<sub>3</sub>(001)*  
@@ -207,7 +207,7 @@ __N. Barrett, J. E. Rault, J. L. Wang, C. Mathieu, A. Locatelli, T. O. Mentes, M
 *Full field electron spectromicroscopy applied to ferroelectric materials*  
 [*Journal of Applied Physics* **113**, 187217 (2013)](https://aip.scitation.org/doi/full/10.1063/1.4801968) - [Pre-Print](https://arxiv.org/abs/1806.04849)
 
-##2010 - 2012##
+## 2010 - 2012 ##
 
 __J. E. Rault, W. Ren, S. Prosandeev, S. Lisenkov, D. Sando, S. Fusil, M. Bibes, A. Barthélémy, L. Bellaiche, and N. Barrett__  
 *Thickness-Dependent Polarization of Strained BiFeO<sub>3</sub> Films with Constant Tetragonality*  
