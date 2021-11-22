@@ -5,7 +5,7 @@ Publications
 
 __Alarab, F., Hricovini, K., Leikert, B., Nicolaï, L., Fanciulli, M., Heckmann, O., Richter, C., Prušakova, L., Jansa, Z., Šutta, P., Rault, J.E., Lefevre, P., Sing, M., Muntwiler, M., Claessen, R., Minár, J.__  
 *Photoemission study of pristine and Ni-doped SrTiO3 thin films*  
-[*Physical Review B **104** 165129. (2021)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.165129) - [Pre-Print](https://arxiv.org/abs/2011.12648)
+[*Physical Review B **104** 165129 (2021)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.165129) - [Pre-Print](https://arxiv.org/abs/2011.12648)
 
 __Rault, J.E., Kuo, C.T., Martins, H.P., Conti, G., Nemšák, S.__  
 *High resolution depth profiling using near-total-reflection hard x-ray photoelectron spectroscopy*  
