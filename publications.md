@@ -3,9 +3,38 @@ Publications
 
 ## 2021 ##
 
+__Alarab, F., Hricovini, K., Leikert, B., Nicolaï, L., Fanciulli, M., Heckmann, O., Richter, C., Prušakova, L., Jansa, Z., Šutta, P., Rault, J.E., Lefevre, P., Sing, M., Muntwiler, M., Claessen, R., Minár, J.__  
+*Photoemission study of pristine and Ni-doped SrTiO3 thin films*
+[*Physical Review B **104** 165129. (2021)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.165129) - [Pre-Print](https://arxiv.org/abs/2011.12648)
+
+__Rault, J.E., Kuo, C.T., Martins, H.P., Conti, G., Nemšák, S.__  
+*High resolution depth profiling using near-total-reflection hard x-ray photoelectron spectroscopy*
+[*Journal of Vacuum Science & Technology A **39** 060802 (2021)*](https://avs.scitation.org/doi/full/10.1116/6.0001289) - [Pre-Print](https://arxiv.org/abs/2107.07007)
+
+__Véronique Brouet, Paul Foulquier, Alex Louat, François Bertran, Patrick Le Fèvre, Julien E. Rault, and Dorothée Colson__   
+*Origin of the different electronic structure of Rh- and Ru-doped Sr<sub>2</sub>IrO<sub>4</sub>*  
+[*Phyical Review B **104**, L121104 (2021)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L121104) - [Pre-Print](https://arxiv.org/abs/2103.03056)
+
+__Luis M. Vicente-Arche, Julien Bréhin, Sara Varotto, Maxen Cosset-Cheneau, Srijani Mallik, Raphaël Salazar, Paul Noël, Diogo C. Vaz, Felix Trier, Suvam Bhattacharya, Anke Sander,P atrick Le Fèvre, François Bertran, Guilhem Saiz, Gerbold Ménard, Nicolas Bergeal, Agnès Barthélémy, Hai Li, Chia-Ching Lin, Dmitri E. Nikonov, Ian A. Young, Julien E. Rault, Laurent Vila, Jean-Philippe Attané, Manuel Bibes__   
+*Spin–Charge Interconversion in KTaO<sub>3</sub> 2D Electron Gases*  
+[*Advanced Materials, 2102102 (2021)*](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202102102) 
+
+__Lama Khalil, Jean-Christophe Girard,  Debora Pierucci,  Federico Bisti, Julien Chaste,  Fabrice Oehler, Charlie Gréboval, Ulrich Nguétchuissi Noumbé, Jean-Francois Dayen, Demetrio Logoteta,  Gilles Patriarche,  Julien Rault,  Marco Pala, Emmanuel Lhuillier, and  Abdelkarim Ouerghi__   
+*Electronic band gap of van der Waals α-As<sub>2</sub>Te<sub>3</sub> crystals*  
+[*Applied Physics Letters **119**, 043103 (2021)*](https://aip.scitation.org/doi/10.1063/5.0058291)  
+
+__J. Dai, E. Frantzeskakis, N. Aryal, K.-W. Chen, F. Fortuna, J. E. Rault, P. Le Fèvre, L. Balicas, K. Miyamoto, T. Okuda, E. Manousakis, R. E. Baumbach, and A. F. Santander-Syro__   
+*Experimental Observation and Spin Texture of Dirac Node Arcs in Tetradymite Topological Metals*  
+[*Physical Review Letters **126**, 196407 (2021)*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.196407) - [Pre-Print](https://arxiv.org/abs/2105.07515)
+
+__Geoffroy Kremer, Juan Camilo Alvarez-Quiceno, Thomas Pierron, César González, Muriel Sicot, Bertrand Kierren, Luc Moreau, Julien E Rault, Patrick Le Fèvre, François Bertran, Yannick J Dappe, Johann Coraux, Pascal Pochet and Yannick Fagot-Revurat__   
+*Dispersing and semi-flat bands in the wide band gap two-dimensional semiconductor bilayer silicon oxide*  
+[*2D Materials **8**, 035021 (2021)*](https://iopscience.iop.org/article/10.1088/2053-1583/abf715) - [Pre-Print](https://arxiv.org/abs/2011.14376)
+
 __M. Horio, Q. Wang, V. Granata, K. P. Kramer, Y. Sassa, S. Jöhr, D. Sutter, A. Bold, L. Das, Y. Xu, R. Frison, R. Fittipaldi, T. K. Kim, C. Cacho, J. E. Rault, P. Le Fèvre, F. Bertran, N. C. Plumb, M. Shi, A. Vecchione, M. H. Fischer & J. Chang__ 
 *Electronic reconstruction forming a C<sub>2</sub>-symmetric Dirac semimetal in Ca<sub>3</sub>Ru<sub>2</sub>O<sub>7</sub>*  
 [*npj Quantum Materials **6**, 29 (2021)*](https://www.nature.com/articles/s41535-021-00328-3) - [Pre-Print](https://arxiv.org/abs/1911.12163)
+
 
 ## 2020 ##
 
