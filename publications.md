@@ -1,6 +1,12 @@
 Publications
 ---
 
+## 2022 ##
+
+__Cheng-Tai Kuo, Giuseppina Conti,  Julien E. Rault,  Claus M. Schneider,  Slavomír Nemšák and  Alexander X. Gray__  
+*Emergent phenomena at oxide interfaces studied with standing-wave photoelectron spectroscopy*  
+[*Journal of Vacuum Science & Technology A **40**, 020801 (2022)*](https://avs.scitation.org/doi/abs/10.1116/6.0001584) - [Pre-Print](https://arxiv.org/abs/2110.14458)
+
 ## 2021 ##
 
 __Alarab, F., Hricovini, K., Leikert, B., Nicolaï, L., Fanciulli, M., Heckmann, O., Richter, C., Prušakova, L., Jansa, Z., Šutta, P., Rault, J.E., Lefevre, P., Sing, M., Muntwiler, M., Claessen, R., Minár, J.__  
