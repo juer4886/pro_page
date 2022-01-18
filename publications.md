@@ -3,6 +3,10 @@ Publications
 
 ## 2022 ##
 
+__Emilio Vélez-Fort, Ali Hallal, Roberto Sant, Thomas Guillet, Khasan Abdukayumov, Alain Marty, Céline Vergnaud, Jean-François Jacquot, Denis Jalabert, Jun Fujii, Ivana Vobornik, Julien Rault, Nicholas B. Brookes, Danilo Longo, Philippe Ohresser, Abdelkarim Ouerghi, Jean-Yves Veuillen, Pierre Mallet, Hervé Boukari, Hanako Okuno, Mairbek Chshiev, Frédéric Bonell, and Matthieu Jamet__  
+*Ferromagnetism and Rashba Spin–Orbit Coupling in the Two-Dimensional (V,Pt)Se2 Alloy*  
+[*ACS Applied Electronic Materials (2022)*](https://pubs.acs.org/doi/10.1021/acsaelm.1c00992)
+
 __Cheng-Tai Kuo, Giuseppina Conti,  Julien E. Rault,  Claus M. Schneider,  Slavomír Nemšák and  Alexander X. Gray__  
 *Emergent phenomena at oxide interfaces studied with standing-wave photoelectron spectroscopy*  
 [*Journal of Vacuum Science & Technology A **40**, 020801 (2022)*](https://avs.scitation.org/doi/abs/10.1116/6.0001584) - [Pre-Print](https://arxiv.org/abs/2110.14458)
