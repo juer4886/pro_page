@@ -3,7 +3,7 @@ About Me
 
 ![Profile Pic](julien_rault_LD.png)
 
-Since 2014, I've been working as a beamline Scientist at the [CASSIOPEE](https://www.synchrotron-soleil.fr/en/beamlines/cassiopee) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)).
+I've been working as a beamline Scientist at the [CASSIOPEE](https://www.synchrotron-soleil.fr/en/beamlines/cassiopee) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)) from 2014 to 2021. Now I'm scientist at ABB Research Center in Switzerland.
 
 Here is my Google Scholar's profile :  
 
@@ -11,6 +11,8 @@ Here is my Google Scholar's profile :
 
 
 **Research topics:**
+
+* Circuit Breakers
 
 * Ferroelectric (FE) and multiferroïc oxides
   
