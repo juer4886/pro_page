@@ -35,7 +35,7 @@ Here is my Google Scholar's profile :
 CV
 ---
 
-**2022 - now:** Scientist at ABB Research Center, Switzerland.
+**2022 - now:** Scientist at ABB Research Center, Switzerland.  
 **2014 - 2021:** Beamline scientist at the [CASSIOPEE](https://www.synchrotron-soleil.fr/en/beamlines/cassiopee) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)).  
 **2013 - 2014:** Post-doctoral position at the [GALAXIES](http://www.synchrotron-soleil.fr/Recherche/LignesLumiere/GALAXIES) beamline ([Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)) and [Fadley's group](http://www.physics.ucdavis.edu/fadleygroup/) at [Lawrence Berkeley National Laboratory](http://www.lbl.gov/).  
 **2010 - 2013:** PhD graduate of the [Université Pierre et Marie Curie](http://www.upmc.fr/) in Physics. The thesis has been conducted at the [Photoemission, Photodiffraction and Spectromicroscopy group](http://iramis.cea.fr/spec/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=2075) in CEA-Saclay.  
