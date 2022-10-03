@@ -4,7 +4,7 @@ Publications
 ## 2022 ##
 
 __Lama Khalil, Pietro Maria Forcella, Geoffroy Kremer, Federico Bisti, Julien Chaste, Jean-Christophe Girard, Fabrice Oehler, Marco Pala, Jean-Francois Dayen, Demetrio Logoteta, Mark Goerbig, François Bertran, Patrick Le Fèvre, Emmanuel Lhuillier, Julien Rault, Debora Pierucci, Gianni Profeta, and Abdelkarim Ouerghi__  
-*α−As2Te3 as a platform for the exploration of the electronic band structure of single layer beta−tellurene*  
+*α−As<sub>2</sub>Te<sub>3</sub> as a platform for the exploration of the electronic band structure of single layer beta−tellurene*  
 [*Physical Review B, **106**, 125152 (2022)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125152)
 
 __Emilio Vélez-Fort, Ali Hallal, Roberto Sant, Thomas Guillet, Khasan Abdukayumov, Alain Marty, Céline Vergnaud, Jean-François Jacquot, Denis Jalabert, Jun Fujii, Ivana Vobornik, Julien Rault, Nicholas B. Brookes, Danilo Longo, Philippe Ohresser, Abdelkarim Ouerghi, Jean-Yves Veuillen, Pierre Mallet, Hervé Boukari, Hanako Okuno, Mairbek Chshiev, Frédéric Bonell, and Matthieu Jamet__  
