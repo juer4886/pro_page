@@ -3,6 +3,11 @@ Publications
 
 ## 2022 ##
 
+__Nafday, D., Richter, C., Heckmann, O., Wang, W., Mariot, J.M., Djukic, U., Vobornik, I., Lefevre, P., Taleb-Ibrahimi, A., Bertran, F., Rault, J., Nicolaï, L., Ong, C.S., Thunström, P., Hricovini, K., Minár, J., Di Marco, I.__  
+*lectronic structure of Bi nanolines on InAs(100)*  
+[*Applied Surface Science (2022)*](https://www.sciencedirect.com/science/article/abs/pii/S0169433222029646)
+
+
 __Varotto, S., Johansson, A., Göbel, B., Vicente-Arche, L.M., Mallik, S., Bréhin, J., Salazar, R., Bertran, F., Le Fèvre, P., Bergeal, N., Rault, J., Mertig, I., Bibes, M__  
 *Direct visualization of Rashba-split bands and spin/orbital-charge interconversion at KTaO<sub>3</sub> interfaces*  
 [*Nature Communications, **13**, 6165 (2022)*](https://www.nature.com/articles/s41467-022-33621-1) - [Pre-Print](https://arxiv.org/abs/2207.08698)
