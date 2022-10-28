@@ -3,6 +3,10 @@ Publications
 
 ## 2022 ##
 
+__Varotto, S., Johansson, A., Göbel, B., Vicente-Arche, L.M., Mallik, S., Bréhin, J., Salazar, R., Bertran, F., Le Fèvre, P., Bergeal, N., Rault, J., Mertig, I., Bibes, M__  
+*Direct visualization of Rashba-split bands and spin/orbital-charge interconversion at KTaO<sub>3</sub> interfaces*  
+[*Nature Communications, **13**, 6165 (2022)*](https://www.nature.com/articles/s41467-022-33621-1) - [Pre-Print](https://arxiv.org/abs/2207.08698)
+
 __Lama Khalil, Pietro Maria Forcella, Geoffroy Kremer, Federico Bisti, Julien Chaste, Jean-Christophe Girard, Fabrice Oehler, Marco Pala, Jean-Francois Dayen, Demetrio Logoteta, Mark Goerbig, François Bertran, Patrick Le Fèvre, Emmanuel Lhuillier, Julien Rault, Debora Pierucci, Gianni Profeta, and Abdelkarim Ouerghi__  
 *α−As<sub>2</sub>Te<sub>3</sub> as a platform for the exploration of the electronic band structure of single layer beta−tellurene*  
 [*Physical Review B, **106**, 125152 (2022)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125152)
