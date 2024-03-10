@@ -1,12 +1,17 @@
 Publications
 ---
 
-## 2022 ##
+## 2023 ##
+
+__Kramer, K.P., Tazai, R., von Arx, K., Horio, M., Küspert, J., Wang, Q., Sassa, Y., Kim, T.K., Cacho, C., Rault, J.E., Patrick Le Fèvre, P., Bertran, F., Janoschek, M., Gauthier, N., Mazzone, D., Daou, R., Chang, J.__ 
+*Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2*  
+[*Journal of the Physical Society of Japan, **92**, 104701 (2023)*](https://journals.jps.jp/doi/abs/10.7566/JPSJ.92.104701)
 
 __Nafday, D., Richter, C., Heckmann, O., Wang, W., Mariot, J.M., Djukic, U., Vobornik, I., Lefevre, P., Taleb-Ibrahimi, A., Bertran, F., Rault, J., Nicolaï, L., Ong, C.S., Thunström, P., Hricovini, K., Minár, J., Di Marco, I.__  
-*lectronic structure of Bi nanolines on InAs(100)*  
-[*Applied Surface Science (2022)*](https://www.sciencedirect.com/science/article/abs/pii/S0169433222029646)
+*Electronic structure of Bi nanolines on InAs(100)*  
+[*Applied Surface Science **611**, 155436 (2023)*](https://www.sciencedirect.com/science/article/abs/pii/S0169433222029646)
 
+## 2022 ##  
 
 __Varotto, S., Johansson, A., Göbel, B., Vicente-Arche, L.M., Mallik, S., Bréhin, J., Salazar, R., Bertran, F., Le Fèvre, P., Bergeal, N., Rault, J., Mertig, I., Bibes, M__  
 *Direct visualization of Rashba-split bands and spin/orbital-charge interconversion at KTaO<sub>3</sub> interfaces*  
