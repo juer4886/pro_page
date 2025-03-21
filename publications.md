@@ -3,9 +3,17 @@ Publications
 
 ## 2024 ##
 
+__Ortega, J.E., Vasseur, G., Schiller, F., Piquero-Zulaica, I., Weber, A.P., Rault, J., Valbuena, M.A., Schirone, S., Matencio, S., Sviatkin, L.A., Terenteva, D.V., Koroteev, Y.M., Chulkov, E.V., Mugarza, A., Lobo-Checa, J.__  
+*Atomically precise step grids for the engineering of helical states.*  
+[*Physical Review B, **109**, 125427 (2024)*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.125427) - [Pre-Print](https://arxiv.org/abs/1902.05777)
+
+__Muñiz Cano, B., Gudín, A., Sánchez-Barriga, J., Clark, O., Anadón, A., Díez, J.M., Olleros-Rodríguez, P., Ajejas, F., Arnay, I., Jugovac, M., Rault, J., Le Fèvre, P., Bertran, F., Mazhjoo, D., Bihlmayer, G., Rader, O., Blügel, S., Miranda, R., Camarero, J., Valbuena, M.A., Perna, P.__  
+*Rashba-like Spin Textures in Graphene Promoted by Ferromagnet-Mediated Electronic Hybridization with a Heavy Metal.*  
+[*ACS Nano., **24**, 15716 (2024)*](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c02154) - [Pre-Print](https://arxiv.org/abs/2206.04351)
+
 ## 2023 ##
 
-__Mallik, S., Göbel, B., Witt, H., Vicente-Arche, L.M., Varotto, S., Bréhin, J., Ménard, G., Saïz, G., Tamsaout, D., Santander-Syro, A.F., Fortuna, F., Bertran, F., Le Fèvre, P., Rault, J., Boventer, I., Mertig, I., Barthélémy, A., Bergeal, N., Johansson, A., Bibes, M__  
+__Mallik, S., Göbel, B., Witt, H., Vicente-Arche, L.M., Varotto, S., Bréhin, J., Ménard, G., Saïz, G., Tamsaout, D., Santander-Syro, A.F., Fortuna, F., Bertran, F., Le Fèvre, P., Rault, J., Boventer, I., Mertig, I., Barthélémy, A., Bergeal, N., Johansson, A., Bibes, M.__  
 *Electronic band structure of superconducting KTaO<sub>3</sub> (111) interfaces.*  
 [*APL Materials, **11**, 121108 (2023)*](https://pubs.aip.org/aip/apm/article/11/12/121108/2928104)
 
@@ -19,7 +27,7 @@ __Nafday, D., Richter, C., Heckmann, O., Wang, W., Mariot, J.M., Djukic, U., Vob
 
 ## 2022 ##  
 
-__Varotto, S., Johansson, A., Göbel, B., Vicente-Arche, L.M., Mallik, S., Bréhin, J., Salazar, R., Bertran, F., Le Fèvre, P., Bergeal, N., Rault, J., Mertig, I., Bibes, M__  
+__Varotto, S., Johansson, A., Göbel, B., Vicente-Arche, L.M., Mallik, S., Bréhin, J., Salazar, R., Bertran, F., Le Fèvre, P., Bergeal, N., Rault, J., Mertig, I., Bibes, M.__  
 *Direct visualization of Rashba-split bands and spin/orbital-charge interconversion at KTaO<sub>3</sub> interfaces*  
 [*Nature Communications, **13**, 6165 (2022)*](https://www.nature.com/articles/s41467-022-33621-1) - [Pre-Print](https://arxiv.org/abs/2207.08698)
 
