@@ -6,6 +6,11 @@ __Salazar, R., Jamet, M., Vergnaud, C., Pulkkinen, A., Bertran, F., Bigi, C., Mi
 *Two-dimensional to bulk crossover of the WSe2 electronic band structure.*  
 [*Electronic Structure, **7**, 025008 (2025)*](https://iopscience.iop.org/article/10.1088/2516-1075/addca9) - [Pre-Print](https://arxiv.org/abs/2407.03768)
 
+
+__Dai, J., Antezak, A., Broad, W., Thees, M., Zatko, V., Bouwmeester, R.L., Fortuna, F., Le Fèvre, P., Rault, J.E., Horiba, K., Vyalikh, D.V., Kumigashira, H., Kliemt, K., Friedemann, S., Krellner, C., Frantzeskakis, E., Santander-Syro, A. F.__  
+*Electronic Structure Dimensionality of the Quantum-Critical Ferromagnet YbNi4P2.*  
+[*Physical Review Letters, **134** 126401 (2025)*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.126401) - [Pre-Print](https://arxiv.org/abs/2503.21662)
+
 ## 2024 ##
 
 __Ortega, J.E., Vasseur, G., Schiller, F., Piquero-Zulaica, I., Weber, A.P., Rault, J., Valbuena, M.A., Schirone, S., Matencio, S., Sviatkin, L.A., Terenteva, D.V., Koroteev, Y.M., Chulkov, E.V., Mugarza, A., Lobo-Checa, J.__  
