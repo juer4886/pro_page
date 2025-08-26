@@ -1,5 +1,10 @@
 Publications
 ---
+## 2025 ##
+
+__Salazar, R., Jamet, M., Vergnaud, C., Pulkkinen, A., Bertran, F., Bigi, C., Minar, J., Ouerghi, A., Jaouen, T., Rault, J., Le Fevre, P.__  
+*Two-dimensional to bulk crossover of the WSe2 electronic band structure.*  
+[*Electronic Structure, **7**, 025008 (2025)*](https://iopscience.iop.org/article/10.1088/2516-1075/addca9) - [Pre-Print](https://arxiv.org/abs/1902.05777)
 
 ## 2024 ##
 
