@@ -2,11 +2,11 @@ Publications
 ---
 ## 2026 ##
 
+## 2025 ##
+
 __Sophie A. Spencer, Siobhan McKeown, Julien Rault, Chia-Jung Yang, Edgar A. Engel.__  
 *Probing and Modeling the Memory Effect in Vacuum Breakdowns.*  
-[31st International Symposium on Discharges and Electrical Insulation in Vacuum (ISDEIV)](https://ieeexplore.ieee.org/document/11255837)
-
-## 2025 ##
+[31st International Symposium on Discharges and Electrical Insulation in Vacuum (2025)](https://ieeexplore.ieee.org/document/11255837)
 
 __Salazar, R., Jamet, M., Vergnaud, C., Pulkkinen, A., Bertran, F., Bigi, C., Minar, J., Ouerghi, A., Jaouen, T., Rault, J., Le Fevre, P.__  
 *Two-dimensional to bulk crossover of the WSe2 electronic band structure.*  
